@@ -2,3 +2,4 @@ Hola Amigo
 ~ KR$NA, SM
 abc
 xyz
+continue with no error
